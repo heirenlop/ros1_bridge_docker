@@ -7,8 +7,8 @@ This Dockerfile sets up an environment that integrates both **ROS 1 Noetic** and
 
 (1) Terminal 1: run roscore
 ```bash
-source /opt/ros/noetic/setup.bash
 source /opt/ros/foxy/setup.bash
+source /opt/ros/noetic/setup.bash
 roscore
 ```
 
