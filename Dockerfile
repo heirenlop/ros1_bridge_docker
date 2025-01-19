@@ -3,7 +3,7 @@
 # ==========================================================
 # Title       : ros1_bridge Dockerfile.
 # Description : A Dockerfile that sets up a ros1_bridge environment based on ROS 1 Noetic and ROS 2 Foxy:
-# Author      : [lijialu]
+# Author      : [Jialu Li]
 # Created on  : [2024-12-16]
 # Updated on  : [2024-12-16]
 # ==========================================================

@@ -1,6 +1,9 @@
 # **ros1_bridge Docker Environment**
 This Dockerfile sets up an environment that integrates both **ROS 1 Noetic** and **ROS 2 Foxy**, facilitating communication between the two using the ros1_bridge package.
 
+## **Author**
+
+This Docker environment was created by heirenlop(Jialu Li).
 
 ## **How to use**
 
@@ -31,3 +34,4 @@ ros2 bag record -a -o <your_bag_path_to_save>
 ```
 
 (5) reference link:https://github.com/ros2/ros1_bridge
+
